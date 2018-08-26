@@ -61,6 +61,8 @@ while play_again == 'yes':
         print("Right after you hit the lottery.")
     elif response== 21:
         print("Ahh!! I am so tired . Try another day.")
+    elif response ==22:
+        print("Seriously , I am not in the mood to answer. Sorry.")
     else:
         print("Not a valid question!")
 
