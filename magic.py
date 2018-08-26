@@ -59,6 +59,8 @@ while play_again == 'yes':
         print("Someday, but not today.")
     elif response == 20:
         print("Right after you hit the lottery.")
+    elif response== 21:
+        print("Ahh!! I am so tired . Try another day.")
     else:
         print("Not a valid question!")
 
