@@ -1,3 +1,5 @@
 # magicbal
 
-It's a simple game . The answers and questions are random.
+It's a simple game .
+
+The answers and questions are random.
