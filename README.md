@@ -1,4 +1,4 @@
-# magicbal
+# Magicbal
 
 It's a simple game .
 
